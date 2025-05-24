@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "mail"
+    },
+    "text": "Email",
+    "link": "mailto:0xVoidLoop@gmail.com"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "twitter"
+    },
+    "text": "Twitter",
+    "link": "https://twitter.com/0xVoidLoop"
+  },
+  {
+    "id": 3,
+    "icon": {
+      "type": "lucide",
+      "name": "github"
+    },
+    "text": "GitHub",
+    "link": "https://github.com/0xVoidLoop"
+  },
+  {
+    "id": 4,
+    "icon": {
+      "type": "lucide",
+      "name": "message-circle"
+    },
+    "text": "Discord",
+    "link": "https://www.discord.com/users/0xvoidloop/"
+  },
+  {
+    "id": 5,
+    "icon": {
+      "type": "lucide",
+      "name": "linkedin"
+    },
+    "text": "LinkedIn",
+    "link": "https://www.linkedin.com/in/prajwaldhage/"
+  }
+]
